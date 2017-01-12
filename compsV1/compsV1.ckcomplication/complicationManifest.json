@@ -1,0 +1,9 @@
+{
+  "supported complication families" : {
+    "4" : "75B07264-E64D-4886-AE29-9DBFEACC72DA.json",
+    "2" : "8F7F0553-E977-4E5F-843A-9D0C0990C5C8.json",
+    "0" : "26812174-8B47-4702-807D-922A9D5FF286.json",
+    "7" : "DFB4331B-7A4D-455E-82C7-80D61B3746B7.json"
+  },
+  "client ID" : "com.acinfotech.compsV1.watchkitapp.watchkitextension"
+}
