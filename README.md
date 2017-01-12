@@ -31,4 +31,4 @@ Creating Complication Bundle
  <li>Launch the app iPhone sim/watch. After launching Watch app go to face galley area to see an entery of our app. </li>
 </ul> 
  <br>
-Reference:https://developer.apple.com/library/content/releasenotes/WatchKit/AddingComplications/ <br>
+Reference: <a href="https://developer.apple.com/library/content/releasenotes/WatchKit/AddingComplications/" target="_blank" >Adding Comps to Gallery - Apple Doc</a> <br>
