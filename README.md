@@ -27,7 +27,8 @@ Creating Complication Bundle
  <li> In Watch Sim, choose File > Save Complication Bundle. Eg. myBundlename.ckcomplication</li>
  <li>Add the generated complication bundle to your iPhone app.</li>
  <li>You must add the complication bundle as a resource to the top level of your iPhone app—don't add it to your watchOS app or extension</li>
- <li> When you add the bundle, be sure to select “Create folder references” in the “Choose options for adding these files” Xcode dialog.</li>
+ <li> When you add the bundle, be sure to select <b>“Create folder references”</b> in the “Choose options for adding these files” Xcode dialog.</li>
  <li>Launch the app iPhone sim/watch. After launching Watch app go to face galley area to see an entery of our app. </li>
 </ul> 
- 
+ <br>
+Reference:https://developer.apple.com/library/content/releasenotes/WatchKit/AddingComplications/ <br>
