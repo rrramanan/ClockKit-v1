@@ -19,7 +19,7 @@ Supported families : <br>
 <b>Adding Complications to Gallery</b> 
 <br><br>
 To add your complication to the gallery, you must create a complication bundle that gives user preview of your complication.
-<br>
+<br><br>
 Creating Complication Bundle 
 <ul>
 <li>In Complication Controller, implement <b>getLocalizableSampleTemplateForComplication:withHandler:</b> & build the templates by using text or image provider calls. For instance, [CLKSimpleTextProvider localizableTextProviderWithStringsFileTextKey:@“sample key”]  </li>
