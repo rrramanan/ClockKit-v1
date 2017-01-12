@@ -18,7 +18,7 @@ Supported families : <br>
 
 <b>Adding Complications to Gallery</b> 
 <br><br>
-To add complication to the gallery, you must create a complication bundle that gives user preview of your complication.  
+To add your complication to the gallery, you must create a complication bundle that gives user preview of your complication.
 <br>
 Creating Complication Bundle 
 <ul>
